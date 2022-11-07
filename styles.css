@@ -1,0 +1,91 @@
+body{
+    font-family: 'Lucida Sans';
+}
+
+.swatch {
+    border: solid hsl(233, 4%, 33%);
+    border-width: 5px;
+    display: inline-block;
+    float: left;
+    height: 175px;
+    width: 20%;
+    margin: 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#lightblue{
+    background-color: hsl(190, 58%, 66%);
+}
+
+#lightgreen{
+    background-color: hsl(118, 98%, 80%);
+
+}
+
+#orange{
+    background-color: hsl(30, 98%, 63%);
+}
+
+#brightred{
+    background-color: hsl(358, 100%, 49%);
+}
+
+.fonts{
+    border: solid hsl(233, 4%, 33%);
+    border-width: 5px;
+    display: inline-block
+    height: 175px;
+    width: 90%;
+    margin: 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.font_title{
+    text-decoration: underline;
+    font-weight: 600
+}
+
+#mathsfont{
+    font-family: "Cambria";
+    font-style: italic;
+}
+
+#headings{
+    font-family: "Josefin Sans", sans-serif;
+}
+
+#mainwriting{
+    font-family: "Xanh Mono", "Arial";
+}
+
+.styles{
+    border: solid hsl(233, 4%, 33%);
+    border-width: 5px;
+    display: inline-block
+    height: 175px;
+    width: 90%;
+    margin: 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#title h1{
+    font-family: "Josefin Sans";
+    font-size: 30px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+#subheading h2{
+    font-family: "Josefin Sans";
+    font-size: 24x;
+    font-weight: 600;
+}
+
+#paragraph {
+    font-family: "Xanh Mono";
+    font-size: 18px;
+    font-weight: 400
+}
